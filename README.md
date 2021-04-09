@@ -1,5 +1,19 @@
 # Object-Detection-for-CARLA-Driving-Simulator-by-using-YOLOv4
 
+This is the continuation of the repo from stemsgrpy for ease of use.
+
+Requirements:
+```
+Python (v3.7 for Carla)
+numpy
+matplotlib
+opencv-python
+Pillow
+pygame
+Pytorch (I use CPU for model training. Can use GPU but got error in my case during model training)
+torchsummary
+```
+
 ## CARLA Simulator
 - The simulation platform provides open digital assets (urban layouts, buildings, vehicles), as shown in Fig1.
 - Download [CARLA](http://carla.org/) (CARLA_0.9.5 version)
