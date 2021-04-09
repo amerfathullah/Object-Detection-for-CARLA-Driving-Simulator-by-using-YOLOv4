@@ -13,6 +13,7 @@ pygame
 Pytorch (I use CPU for model training. Can use GPU but got error in my case during model training)
 torchsummary
 ```
+Additionally, download the required files in the releases section.
 
 ## CARLA Simulator
 - The simulation platform provides open digital assets (urban layouts, buildings, vehicles), as shown in Fig1.
