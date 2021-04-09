@@ -1,3 +1,4 @@
+import torch
 from torchsummary import summary
 from nets.CSPdarknet import darknet53
 from nets.yolo4 import YoloBody
